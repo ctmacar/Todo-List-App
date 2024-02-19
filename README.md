@@ -6,5 +6,3 @@ Technologies
 - Html
 - Css
 - Javascript
-
-- 
