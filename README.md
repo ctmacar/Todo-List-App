@@ -13,4 +13,4 @@ Process
 
 Learnings
 
--I dindn't learn anything new. Knowledge of my was enough to build this app.
+-I dindn't learn anything new. Knowledge of mine was enough to build this app.
